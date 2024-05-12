@@ -1,0 +1,10 @@
+---
+title: "About me"
+description: |
+  I am a Data Science & Analytics graduate students. I am thrilled by the incorporation of AI in automation. I am striving to be a Machine Learning Engineer
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
