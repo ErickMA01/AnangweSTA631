@@ -2,19 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About me",
+      "description": "I am a Data Science & Analytics graduate students. I am thrilled by the incorporation of AI in automation. I am striving to be a Machine Learning Engineer",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-05-12T18:06:09-04:00"
+      "last_modified": "2024-05-12T19:00:44-04:00"
     },
     {
       "path": "index.html",
       "title": "My Portfolio",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Welcome to my portfolio website. Feel free to explore around and discover my skills. Bienvenue!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-05-12T18:06:10-04:00"
+      "last_modified": "2024-05-12T19:00:45-04:00"
     }
   ],
   "collections": []
